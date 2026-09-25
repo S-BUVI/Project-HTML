@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <title>ENVIRONMENTAL SAFETY</title>
+</head>
+<body>
+    <center>
+    <h1>pollution free world</h1>
+    <h2>causes|effects</h2>
+       <p>Environmental pollution is the contamination of air, water, and soil by harmful substances or energy, causing adverse effects on ecosystems, human health, and the planet.</p>
+    <hr>
+    <img src="bio pic.webp" width="500">
+    </center>
+    
+    <center>
+     <h2>DIFFERENT TYPES OF POLLUTIONS</h2>
+    </center>
+     <center>
+        <ul>
+        <li>water pollution</li>
+        <li>air pollution</li>
+        <li>soil pollution</li>
+        </ul> 
+    </center>
+    
+    <hr>
+    <center>
+    <a href="https://www.youtube.com/watch?v=7qkaz8ChelI">water pollution</a>
+    <a href="https://www.youtube.com/watch?v=fephtrPt6wk">air pollution</a>
+    <a href="https://www.youtube.com/watch?v=fephtrPt6wk">soil pollution</a>
+    </center> 
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YB5KyiSjECY?si=zqTVwgDqna9TjUeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+    <p>people those who are intrested in the pollution free society can enroll their names in the given registration form </P>
+   </center>
+    <hr>
+   <center>
+        <a href="buvi main .html">REGISTRATION FORM</a>
+        <p>CONTACT NUMBER:87687903567</p>
+    </center>
+</body>
+</html>
